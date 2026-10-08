@@ -14,7 +14,9 @@ Do not resell, republish, publicly redistribute, adapt, or extract the text or i
 
 ## Licensing
 
-No open-source or Creative Commons licence is granted for the book or illustrations. Nothing in this notice limits uses allowed by applicable law or viewing and forking provided by GitHub's terms.
+No open-source or Creative Commons license is granted for the book or illustrations. Nothing in this notice limits uses allowed by applicable law or viewing and forking provided by GitHub's terms.
+
+Rights are claimed to the extent permitted by law. Third-party rights, applicable legal exceptions, and GitHub's platform terms remain applicable.
 
 ## Permission requests
 
