@@ -14,7 +14,7 @@ Visit **New York City, Tokyo, and London**. The nine-page PDF includes the cover
 
 ## About the author
 
-B Hui writes children's books as a hobby and designs instructions for custom GPTs. This repository shares a small preview of the Kindle edition.
+B Hui writes children's books as a hobby and designs instructions for custom GPTs. This repository shares a small preview of the Kindle edition. The illustrations were created with Codex, an AI tool, and arranged by the author.
 
 ## Kindle edition
 

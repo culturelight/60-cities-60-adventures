@@ -4,6 +4,8 @@ Copyright © 2026 Brandon Hui. All rights reserved.
 
 This repository contains a limited reader sample and cover preview of *60 Cities x 60 Adventures*. The book text, illustrations, and cover remain copyrighted.
 
+The illustrations were created with Codex, an AI tool, and arranged by the author.
+
 ## Permitted sample use
 
 You may read, download, and print the sample PDF for personal, noncommercial use at home or in a classroom. This limited permission applies to the sample only. Please share the repository link rather than redistributing copies of the files.
