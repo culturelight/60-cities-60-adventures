@@ -1,6 +1,6 @@
 # 60 Cities x 60 Adventures
 
-**A full-color world adventure for ages 7+ by B Hui (Brandon Hui).**
+**A full-color world adventure for ages 7+ by Brandon Hui.**
 
 A picture book project that introduces 60 cities through colorful scenes, city facts, look-and-find activities, and quick quizzes. Designed for children ages 7 and up to explore with parents, caregivers, and educators.
 
@@ -24,7 +24,7 @@ This repository shares a selected preview. The full manuscript, editable product
 
 ## About the author
 
-B Hui (Brandon Hui) writes children’s books as a hobby and designs instructions for custom GPTs.
+Brandon Hui writes children’s books as a hobby and designs instructions for custom GPTs.
 
 ## Kindle edition
 
